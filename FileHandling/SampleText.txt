@@ -1,0 +1,3 @@
+Hi Krishna India, 
+This is a Sample Text from a File
+In the Same Directory as java files!
